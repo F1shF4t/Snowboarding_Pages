@@ -1,5 +1,3 @@
-<script>
-
 //On Page Ready /*
 $(document).ready(function() 
 {
@@ -15,5 +13,3 @@ function bla()
 {
 	alert("It Works");
 }
-
-</script>
