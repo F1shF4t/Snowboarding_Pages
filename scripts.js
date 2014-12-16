@@ -6,7 +6,7 @@ $(document).ready(function()
 	}, 60000);
 	
 	bla();
-}
+});
 
 //Select TSV
 function bla()
