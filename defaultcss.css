@@ -1,0 +1,23 @@
+/***********************************************************************************/
+/* Page Formatting */
+/***********************************************************************************/
+/* Default body and text colour */
+body
+{
+	background: url(./background.jpg) no-repeat center center fixed;
+	-webkit-background-size:cover;
+	background-size:cover;
+}
+
+
+.test
+{
+    width: 100%;
+    background-color:rgb(44,62,80);
+	color:#ffffff;
+	background-color:rgb(44,62,80);
+	color:#ffffff;
+	background-color:rgb(52,73,94);
+	border:0px;
+	padding-bottom:1px;
+}
